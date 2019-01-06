@@ -1,7 +1,7 @@
 {
     "name": "sujinw/taobaoke-api",
     "description": "简约优雅的淘宝客SDK",
-    "keywords": ["淘宝客", "tbk", "sdk"],
+    "keywords": ["淘宝客", "tbk", "sdk", "阿里淘客api"],
     "type": "library",
     "license": "MIT",
     "require": {

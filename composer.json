@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tbk\\": "src/"
+            "ETaobao\\": "src/"
         },
         "files": [
             "src/Kernel/Support/Helpers.php"

@@ -1,5 +1,5 @@
 {
-    "name": "sujinw/taobaokeApi",
+    "name": "sujinw/taobaoke-api",
     "description": "简约优雅的淘宝客SDK",
     "keywords": ["淘宝客", "tbk", "sdk"],
     "type": "library",

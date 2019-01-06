@@ -48,6 +48,6 @@ class Application extends ServiceContainer
         Tpwd\ServiceProvider::class,
         Content\ServiceProvider::class,
         Sc\ServiceProvider::class,
-		Privilege\ServiceProvider::class
+		Privilege\ServiceProvider::class,
     ];
 }

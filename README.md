@@ -7,7 +7,7 @@
 ## 安装
 
 ```shell
-composer require ennnnny/tbk
+composer require sujinw/taobaoke-api
 ```
 
 ## 使用
